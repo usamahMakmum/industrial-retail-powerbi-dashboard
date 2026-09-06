@@ -1,5 +1,7 @@
 # Industrial Retail Power BI Dashboard
 
+![Dashboard Preview](dashboard-preview.png)
+
 ## Project Overview
 This project presents a Sales & Returns Performance Dashboard for an industrial retail dataset using Microsoft Power BI.
 
